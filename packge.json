@@ -1,0 +1,16 @@
+{
+    "content": [
+        {
+            "Alias": "Mais Clin GV - Producao",
+            "ConnectionName": "FBconnection",
+            "DBXDriver": "Firebird",
+            "FDDriver": "FB",
+            "PassWordBD": "YWRtU1JWQDIwMjI=",
+            "Server": "129.159.58.144",
+            "Database": "/data/bases/Audiotoni/CLINOT_19072023.FDB",
+            "Porta": "3050",
+            "user_nameBD": "SYSDBA",
+            "Homologacao": "F"
+        }
+    ]
+}
